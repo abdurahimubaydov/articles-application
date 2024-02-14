@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+
+/*  Home section  */
+
+@media screen and (max-width: 768px) {
+    .articles-section {
+        width: 768px;
+        padding: 0;
+        height: 100vh;
+        display: flex;
+        background: #012030;;
+        height: 100vh;
+    }
+}
